@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "OrgUnitBulkUpdate": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\VICTUS\\OneDrive\\Desktop\\TestAutomation\\test.xlsx\" \"https://play.im.dhis2.org/stable-2-40-5/api/29/organisationUnits/\"\r\n",
+      "hotReloadEnabled": false
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\VICTUS\\OneDrive\\Desktop\\TestAutomation\\test.xlsx\" \"https://play.im.dhis2.org/stable-2-40-5/api/29/organisationUnits/\"\r\n",
+      "hotReloadEnabled": false
+    }
+  }
+}
